@@ -1,0 +1,5 @@
+﻿  Graph.cpp
+C:\Users\tomas\OneDrive\Desktop\2.semester\alg1\alg_projekt\alg_projekt\Graph.cpp(71,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  alg_projekt.cpp
+  Generating Code...
+  alg_projekt.vcxproj -> C:\Users\tomas\OneDrive\Desktop\2.semester\alg1\alg_projekt\x64\Debug\alg_projekt.exe
